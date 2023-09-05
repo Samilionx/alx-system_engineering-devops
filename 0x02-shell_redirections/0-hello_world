@@ -1,2 +1,2 @@
 #!/bin/bash
-cat < hello, World > 0-hello_world
+ls < hello, World > 0-hello_world
