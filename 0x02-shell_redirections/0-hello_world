@@ -1,0 +1,2 @@
+#!/bin/bash
+cat < hello, World > 0-hello_world
