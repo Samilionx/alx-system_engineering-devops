@@ -1,2 +1,2 @@
 #!/bin/bash
-e f -print | wc -l
+e f -print | wc -l ./
