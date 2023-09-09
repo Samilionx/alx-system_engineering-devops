@@ -1,2 +1,2 @@
 #!/bin/bash
-exlort PART=$PATH:/action
+export PART=$PATH:/action
